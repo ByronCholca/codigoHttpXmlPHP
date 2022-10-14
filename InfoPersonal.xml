@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dbp>
+    <persona ides="1"> 
+        <cedula genero="masculino" matriculado="si" id="6843" esvalida="si">1715851406</cedula>
+        <nombre>Giovanny Cholca</nombre>
+		<titulo>Ingeniero informático</titulo>  
+        <asignatura>Desarrollo de Software en Ambientes Cloud</asignatura>
+        <ciudad>Quito</ciudad>  
+		<maestria>Maestria en Ingenieria en Software</maestria>  
+		<fecha>14-10-2022</fecha> 
+		<docente>Ing. Roberth Gustavo Figueroa Díaz</docente>  		
+    </persona>
+       
+</dbp>
